@@ -24,11 +24,11 @@ Python 3 installed
 ▶️ How to Run
 
 Clone the repository:
-git clone https://github.com/your-username/simple-calculator.git
+git clone https://github.com/kravuhas/calculadora-simples.git
 
 Navigate to the folder:
 
-cd simple-calculator
+cd calculadora-somples
 
 Run the program:
 
